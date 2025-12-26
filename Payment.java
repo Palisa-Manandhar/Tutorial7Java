@@ -7,4 +7,7 @@ public class Payment {
 	public void deposit() {
 		
 	}
+	public void transfer() {
+		
+	}
 }
