@@ -4,4 +4,7 @@ public class Payment {
 	public void money() {
 		System.out.println("Money is here.");
 	}
+	public void deposit() {
+		
+	}
 }
